@@ -38,7 +38,6 @@ Insights Generation: Summarizing key takeaways from the analysis, such as the be
 Results
 Some of the key insights derived from the analysis include:
 
-[Insert insights from your analysis here, e.g., "Category X had the highest sales during Diwali."]
-[Insert another key takeaway, e.g., "Customers in Region Y spent the most per transaction."]
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
