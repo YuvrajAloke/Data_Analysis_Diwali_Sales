@@ -43,8 +43,8 @@ Key sections in the notebook:
 ## Results
 
 Some of the key insights derived from the analysis include:
-- [Insert insights from your analysis here, e.g., "Category X had the highest sales during Diwali."]
-- [Insert another key takeaway, e.g., "Customers in Region Y spent the most per transaction."]
+- Maharastra and Karnataka working in IT, Healthcare and Aviation, Married women age group 26-35 yrs from UP are more likely to buy products from Food, Clothing and Electronics category
+- The Random Forest prediction model for the Diwali Sales dataset explains 53.5% of the variance in sales, with a Mean Squared Error of 12,713,284. This indicates that the model captures a substantial portion of the relationship between customer demographics (such as age, gender, marital status, and occupation), product categories, and sales amount. The model effectively identifies patterns in customer behavior and purchasing trends, offering useful insights into factors influencing sales. However, while the predictions are fairly accurate, there is still some gap between predicted and actual sales values, suggesting that further feature engineering or tuning could enhance model performance. Overall, this model provides a solid foundation for predicting sales and understanding customer segments.
 
 ## License
 
